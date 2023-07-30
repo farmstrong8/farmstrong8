@@ -1,4 +1,4 @@
-<h1 style="color: #FAFAFA;"> 👨🏻‍💻 Ferris Armstrong </h1>
+<h1 style="color: #FAFAFA;"> 🐱‍💻 Ferris Armstrong </h1>
 
 <!-- GIF -->
 
